@@ -1,5 +1,6 @@
-import type { Dictionary, DictionaryResource } from '@/typings/index'
-import { calcChapterCount } from '@/utils'
+import type { Dictionary, DictionaryResource } from '@/typings/index';
+import { calcChapterCount } from '@/utils';
+
 
 // 中国考试
 const chinaExam: DictionaryResource[] = [
@@ -4155,19 +4156,34 @@ const indonesianDicts: DictionaryResource[] = [
   },
 ]
 
+const my_en: DictionaryResource[] = [
+  {
+    id: '1a',
+    name: '1a',
+    description: '初级语法',
+    category: '初级语法',
+    tags: ['初级语法'],
+    url: '/dicts/en/unit1.json',
+    length: 32,
+    language: 'en',
+    languageCategory: 'en',
+  },
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
  */
 export const dictionaryResources: DictionaryResource[] = [
+  ...my_en,
   ...chinaExam,
-  ...internationalExam,
-  ...childrenEnglish,
-  ...programming,
-  ...japaneseExam,
-  ...germanExam,
-  ...kazakhHapinDicts,
-  ...indonesianDicts,
+  // ...internationalExam,
+  // ...childrenEnglish,
+  // ...programming,
+  // ...japaneseExam,
+  // ...germanExam,
+  // ...kazakhHapinDicts,
+  // ...indonesianDicts,
 
   // {
   //   id: 'zhtest',
