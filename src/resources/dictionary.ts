@@ -4168,6 +4168,17 @@ const my_en: DictionaryResource[] = [
     language: 'en',
     languageCategory: 'en',
   },
+  {
+    id: '2',
+    name: '1',
+    description: '初级语法',
+    category: '初级语法',
+    tags: ['初级语法'],
+    url: '/dicts/en/unit2.json',
+    length: 32,
+    language: 'en',
+    languageCategory: 'en',
+  },
 ]
 
 /**
