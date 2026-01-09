@@ -1,34 +1,34 @@
 [
-  { "name": "What’s your name?", "trans": ["你叫什么名字？"] },
+  { "name": "What's your name?", "trans": ["你叫什么名字？"] },
   { "name": "My name is David.", "trans": ["我的名字是大卫。"] },
 
   { "name": "Are you married?", "trans": ["你结婚了吗？"] },
-  { "name": "No, I’m not.", "trans": ["不，我没有。"] },
+  { "name": "No, I'm not.", "trans": ["不，我没有。"] },
 
   { "name": "How old are you?", "trans": ["你多大了？"] },
   { "name": "How old is Joe?", "trans": ["乔多大了？"] },
-  { "name": "He’s 24.", "trans": ["他24岁。"] },
+  { "name": "He's 24.", "trans": ["他24岁。"] },
 
   { "name": "Are you a student?", "trans": ["你是学生吗？"] },
   { "name": "Yes, I am.", "trans": ["是的，我是。"] },
 
   { "name": "Am I late?", "trans": ["我迟到了吗？"] },
-  { "name": "No, you’re on time.", "trans": ["不，你很准时。"] },
+  { "name": "No, you're on time.", "trans": ["不，你很准时。"] },
 
   { "name": "Is your mother at home?", "trans": ["你妈妈在家吗？"] },
-  { "name": "No, she’s out.", "trans": ["不，她出去了。"] },
+  { "name": "No, she's out.", "trans": ["不，她出去了。"] },
 
   { "name": "Are your parents at home?", "trans": ["你父母在家吗？"] },
-  { "name": "No, they’re out.", "trans": ["不，他们出去了。"] },
+  { "name": "No, they're out.", "trans": ["不，他们出去了。"] },
 
   { "name": "Where is your mother?", "trans": ["你妈妈在哪里？"] },
   { "name": "Is she at home?", "trans": ["她在家吗？"] },
 
   { "name": "Where are you from?", "trans": ["你来自哪里？"] },
-  { "name": "I’m from Canada.", "trans": ["我来自加拿大。"] },
+  { "name": "I'm from Canada.", "trans": ["我来自加拿大。"] },
 
   { "name": "What color is your car?", "trans": ["你的车是什么颜色？"] },
-  { "name": "It’s red.", "trans": ["它是红色的。"] },
+  { "name": "It's red.", "trans": ["它是红色的。"] },
 
   { "name": "How are your parents?", "trans": ["你父母身体怎么样？"] },
 
@@ -39,18 +39,18 @@
   { "name": "Are they new?", "trans": ["它们是新的吗？"] },
 
   { "name": "How much are they?", "trans": ["它们多少钱？"] },
-  { "name": "This hotel isn’t very good.", "trans": ["这家酒店不太好。"] },
+  { "name": "This hotel isn't very good.", "trans": ["这家酒店不太好。"] },
   { "name": "Why is it so expensive?", "trans": ["为什么这么贵？"] },
 
-  { "name": "What’s the time?", "trans": ["现在几点了？"] },
+  { "name": "What's the time?", "trans": ["现在几点了？"] },
 
-  { "name": "Who’s that man?", "trans": ["那个男人是谁？"] },
-  { "name": "Where’s Lucy?", "trans": ["露西在哪里？"] },
-  { "name": "How’s your father?", "trans": ["你父亲怎么样？"] },
+  { "name": "Who's that man?", "trans": ["那个男人是谁？"] },
+  { "name": "Where's Lucy?", "trans": ["露西在哪里？"] },
+  { "name": "How's your father?", "trans": ["你父亲怎么样？"] },
 
   { "name": "Are you tired?", "trans": ["你累了吗？"] },
   { "name": "Are you hungry?", "trans": ["你饿了吗？"] },
-  { "name": "No, I’m not, but I’m thirsty.", "trans": ["不饿，但是我渴了。"] },
+  { "name": "No, I'm not, but I'm thirsty.", "trans": ["不饿，但是我渴了。"] },
 
   { "name": "Is your friend English?", "trans": ["你的朋友是英国人吗？"] },
   { "name": "Yes, he is.", "trans": ["是的，他是。"] },
@@ -58,6 +58,6 @@
   { "name": "Are these your keys?", "trans": ["这些是你的钥匙吗？"] },
   { "name": "Yes, they are.", "trans": ["是的，是我的。"] },
 
-  { "name": "That’s my seat.", "trans": ["那是我的座位。"] },
-  { "name": "No, it isn’t.", "trans": ["不，不是。"] }
+  { "name": "That's my seat.", "trans": ["那是我的座位。"] },
+  { "name": "No, it isn't.", "trans": ["不，不是。"] }
 ]
