@@ -1,0 +1,53 @@
+[
+  { "name": "Are you feeling okay?", "trans": ["你感觉还好吗？"] },
+  { "name": "Yes, I'm fine.", "trans": ["是的，我很好。"] },
+  { "name": "Thanks.", "trans": ["谢谢。"] },
+
+  { "name": "Is it raining?", "trans": ["在下雨吗？"] },
+  { "name": "Yes.", "trans": ["是的。"] },
+  { "name": "No, it isn't.", "trans": ["不，没有。"] },
+
+  { "name": "Take an umbrella.", "trans": ["带把伞吧。"] },
+
+  { "name": "Why are you wearing a coat?", "trans": ["你为什么穿着外套？"] },
+  { "name": "It's not cold.", "trans": ["并不冷。"] },
+
+  { "name": "What's Paul doing?", "trans": ["保罗在做什么？"] },
+  { "name": "He's studying for his exams.", "trans": ["他正在为考试学习。"] },
+
+  { "name": "What are the children doing?", "trans": ["孩子们在做什么？"] },
+  { "name": "They're watching TV.", "trans": ["他们正在看电视。"] },
+
+  { "name": "Look, there's Emily.", "trans": ["看，那是艾米丽。"] },
+  { "name": "Where is she going?", "trans": ["她要去哪里？"] },
+
+  { "name": "Who are you waiting for?", "trans": ["你在等谁？"] },
+  { "name": "Are you waiting for Sue?", "trans": ["你在等苏吗？"] },
+
+  { "name": "Are you going now?", "trans": ["你现在要走吗？"] },
+  { "name": "Yes, I am.", "trans": ["是的。"] },
+
+  { "name": "Is Ben working today?", "trans": ["本今天在工作吗？"] },
+  { "name": "Yes, he is.", "trans": ["是的，他在。"] },
+
+  { "name": "Are your friends staying at a hotel?", "trans": ["你的朋友们住在酒店吗？"] },
+  { "name": "No, they aren't.", "trans": ["不，他们没有。"] },
+  { "name": "They're staying with me.", "trans": ["他们住在我这里。"] },
+
+  {
+    "name": "Is he working?",
+    "trans": ["他在工作吗？"]
+  },
+  {
+    "name": "Is Ben working today?",
+    "trans": ["本今天在工作吗？"]
+  },
+  {
+    "name": "Where are they going?",
+    "trans": ["他们要去哪里？"]
+  },
+  {
+    "name": "Where are those people going?",
+    "trans": ["那些人要去哪里？"]
+  }
+]
