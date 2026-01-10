@@ -1,0 +1,43 @@
+[
+  { "name": "Do you play the guitar?", "trans": ["你会弹吉他吗？"] },
+  { "name": "Do your friends live near here?", "trans": ["你的朋友住在这附近吗？"] },
+  { "name": "Does Chris work on Sundays?", "trans": ["克里斯星期天上班吗？"] },
+  { "name": "Does it rain a lot here?", "trans": ["这里经常下雨吗？"] },
+  { "name": "Where do your parents live?", "trans": ["你的父母住在哪里？"] },
+  {
+    "name": "How often do you wash your hair?",
+    "trans": ["你多久洗一次头？"]
+  },
+  {
+    "name": "What does this word mean?",
+    "trans": ["这个单词是什么意思？"]
+  },
+  {
+    "name": "How much does it cost to fly to Rome?",
+    "trans": ["坐飞机去罗马要花多少钱？"]
+  },
+  {
+    "name": "Does Chris always work on Sundays?",
+    "trans": ["克里斯总是在星期天工作吗？"]
+  },
+  {
+    "name": "What do you usually do at weekends?",
+    "trans": ["你周末通常做什么？"]
+  },
+  { "name": "What do you do?", "trans": ["你是做什么工作的？"] },
+  { "name": "I work in a bank.", "trans": ["我在一家银行工作。"] },
+  { "name": "Do they like music?", "trans": ["他们喜欢音乐吗？"] },
+  { "name": "Does he like music?", "trans": ["他喜欢音乐吗？"] },
+  {
+    "name": "No, I don't. Do your parents speak English?",
+    "trans": ["不，我不会。你的父母会说英语吗？"]
+  },
+  { "name": "Yes, they do.", "trans": ["是的，他们会。"] },
+  { "name": "Does James work hard?", "trans": ["詹姆斯工作努力吗？"] },
+  { "name": "Yes, he does.", "trans": ["是的，他很努力。"] },
+  {
+    "name": "Does your sister live in London?",
+    "trans": ["你妹妹住在伦敦吗？"]
+  },
+  { "name": "No, she doesn't.", "trans": ["不，她不住在伦敦。"] }
+]

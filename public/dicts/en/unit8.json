@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Jack plays the guitar, but he is not playing the guitar now.",
+    "trans": ["杰克会弹吉他，但他现在没有在弹。"]
+  },
+  {
+    "name": "Is he playing the guitar?",
+    "trans": ["他正在弹吉他吗？"]
+  },
+  {
+    "name": "No, he isn't.",
+    "trans": ["不，他没有。"]
+  },
+  {
+    "name": "Does he play the guitar?",
+    "trans": ["他会弹吉他吗？"]
+  },
+  {
+    "name": "Yes, he does.",
+    "trans": ["是的，他会。"]
+  },
+  {
+    "name": "Please be quiet, I'm working.",
+    "trans": ["请安静一点，我正在工作。"]
+  },
+  {
+    "name": "Tom is having a shower at the moment.",
+    "trans": ["汤姆现在正在洗澡。"]
+  },
+  {
+    "name": "Take an umbrella with you, it's raining.",
+    "trans": ["带把伞吧，正在下雨。"]
+  },
+  {
+    "name": "You can turn off the television, I'm not watching it.",
+    "trans": ["你可以把电视关掉，我没在看。"]
+  },
+  {
+    "name": "Why are you under the table?",
+    "trans": ["你为什么在桌子下面？"]
+  },
+  {
+    "name": "What are you doing?",
+    "trans": ["你正在做什么？"]
+  },
+  {
+    "name": "I work every day from 9 o'clock to 5:30. Tom has a shower every morning.",
+    "trans": ["我每天从9点工作到5点半。汤姆每天早上洗澡。"]
+  },
+  {
+    "name": "It rains a lot in winter.",
+    "trans": ["冬天经常下雨。"]
+  },
+  {
+    "name": "I don't watch TV very often.",
+    "trans": ["我不太常看电视。"]
+  },
+  {
+    "name": "What do you usually do at weekend?",
+    "trans": ["你周末通常做什么？"]
+  },
+  {
+    "name": "I'm tired.",
+    "trans": ["我累了。"]
+  },
+  {
+    "name": "I want to go home.",
+    "trans": ["我想回家。"]
+  },
+  {
+    "name": "Do you know that girl?",
+    "trans": ["你认识那个女孩吗？"]
+  },
+  {
+    "name": "Yes, but I don't remember her name.",
+    "trans": ["认识，但我不记得她的名字了。"]
+  },
+  {
+    "name": "I don't understand.",
+    "trans": ["我不明白。"]
+  },
+  {
+    "name": "What do you mean?",
+    "trans": ["你是什么意思？"]
+  }
+]

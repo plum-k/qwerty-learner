@@ -1,0 +1,78 @@
+[
+  { "name": "I have blue eyes.", "trans": ["我有蓝色的眼睛。"] },
+  { "name": "I've got blue eyes.", "trans": ["我有蓝色的眼睛。"] },
+  { "name": "Tom has two sisters.", "trans": ["汤姆有两个姐妹。"] },
+  { "name": "Tom has got two sisters.", "trans": ["汤姆有两个姐妹。"] },
+  { "name": "Our car has four doors.", "trans": ["我们的车有四个门。"] },
+  { "name": "Our car has got four doors.", "trans": ["我们的车有四个门。"] },
+  { "name": "Sarah isn't feeling well.", "trans": ["莎拉感觉不太舒服。"] },
+  { "name": "She has a headache.", "trans": ["她头疼。"] },
+  { "name": "She's got a headache.", "trans": ["她头疼。"] },
+  { "name": "They like animals.", "trans": ["他们喜欢动物。"] },
+  { "name": "They have a horse.", "trans": ["他们有一匹马。"] },
+  {
+    "name": "I don't have a car.",
+    "trans": ["我没有车。"]
+  },
+  {
+    "name": "I haven't got a car.",
+    "trans": ["我没有车。"]
+  },
+  {
+    "name": "They don't have any children.",
+    "trans": ["他们没有孩子。"]
+  },
+  {
+    "name": "They haven't got any children.",
+    "trans": ["他们没有孩子。"]
+  },
+  {
+    "name": "It's a nice house but it doesn't have a garden.",
+    "trans": ["这是一栋漂亮的房子，但没有花园。"]
+  },
+  {
+    "name": "It's a nice house but it hasn't got a garden.",
+    "trans": ["这是一栋漂亮的房子，但没有花园。"]
+  },
+  {
+    "name": "Amy doesn't have a job at the moment.",
+    "trans": ["艾米目前没有工作。"]
+  },
+  {
+    "name": "Amy hasn't got a job at the moment.",
+    "trans": ["艾米目前没有工作。"]
+  },
+  { "name": "Do you have a camera?", "trans": ["你有相机吗？"] },
+  { "name": "No, I don't.", "trans": ["不，我没有。"] },
+  {
+    "name": "Have you got a camera?",
+    "trans": ["你有相机吗？"]
+  },
+  { "name": "No, I haven't.", "trans": ["不，我没有。"] },
+  {
+    "name": "Does Helen have a car?",
+    "trans": ["海伦有车吗？"]
+  },
+  { "name": "Yes, she does.", "trans": ["是的，她有。"] },
+  {
+    "name": "Has Helen got a car?",
+    "trans": ["海伦有车吗？"]
+  },
+  { "name": "Yes, she has.", "trans": ["是的，她有。"] },
+  {
+    "name": "What kind of car does she have?",
+    "trans": ["她有什么样的车？"]
+  },
+  {
+    "name": "What kind of car has she got?",
+    "trans": ["她有什么样的车？"]
+  },
+  {
+    "name": "How many children do they have?",
+    "trans": ["他们有几个孩子？"]
+  },
+  {
+    "name": "How many children have they got?",
+    "trans": ["他们有几个孩子？"]
+  }
+]
