@@ -4159,9 +4159,9 @@ const my_ja: DictionaryResource[] = [
   {
     id: '1',
     name: '1',
-    description: '初级语法',
-    category: '初级语法',
-    tags: ['初级语法'],
+    description: 'n5语法',
+    category: 'n5语法',
+    tags: ['n5语法'],
     url: '/dicts/ja/n5.json',
     length: 60,
     language: 'romaji',
