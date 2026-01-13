@@ -1,39 +1,66 @@
 [
-  { "name": "They read a lot.", "trans": ["他们读很多书。"] },
-  { "name": "He likes ice cream.", "trans": ["他喜欢冰淇淋。"] },
-  { "name": "I work in a shop.", "trans": ["我在一家商店工作。"] },
+  { "name": "She doesn't drink coffee.", "trans": ["她不喝咖啡。"] },
+  { "name": "He doesn't like his job.", "trans": ["他不喜欢他的工作。"] },
   {
-    "name": "My brother works in a bank, Lucy lives in London, Her parents live in Scotland.",
-    "trans": ["我哥哥在一家银行工作，露西住在伦敦，她的父母住在苏格兰。"]
-  },
-  { "name": "It rains a lot in winter.", "trans": ["冬天经常下雨。"] },
-  { "name": "Joe has a shower every day.", "trans": ["乔每天都洗淋浴。"] },
-  { "name": "I like big cities.", "trans": ["我喜欢大城市。"] },
-  { "name": "Your English is good.", "trans": ["你的英语很好。"] },
-  { "name": "You speak very well.", "trans": ["你说得很好。"] },
-  { "name": "Tom works very hard.", "trans": ["汤姆工作非常努力。"] },
-  {
-    "name": "He starts at 7:30 and finishes at 8 o'clock in the evening.",
-    "trans": ["他早上7点半开始工作，晚上8点结束。"]
-  },
-  { "name": "The earth goes round the sun.", "trans": ["地球绕着太阳转。"] },
-  {
-    "name": "We do a lot of different things in our free time.",
-    "trans": ["我们在空闲时间做很多不同的事情。"]
+    "name": "I drink coffee, but I don't drink tea.",
+    "trans": ["我喝咖啡，但我不喝茶。"]
   },
   {
-    "name": "It costs a lot of money to build a hospital.",
-    "trans": ["建一所医院要花很多钱。"]
+    "name": "Sue drinks tea, but she doesn't drink coffee.",
+    "trans": ["苏喝茶，但她不喝咖啡。"]
   },
-  { "name": "Sue always gets to work early.", "trans": ["苏总是很早到公司。"] },
-  { "name": "I never eat breakfast.", "trans": ["我从不吃早饭。"] },
-  { "name": "We often go away at weekends.", "trans": ["我们周末经常外出。"] },
+  { "name": "You don't work very hard.", "trans": ["你工作得不太努力。"] },
   {
-    "name": "Mark usually plays football on Sundays.",
-    "trans": ["马克通常在星期天踢足球。"]
+    "name": "We don't watch TV very often.",
+    "trans": ["我们不太常看电视。"]
   },
   {
-    "name": "I sometimes walk to work but not very often.",
-    "trans": ["我有时步行去上班，但并不常。"]
+    "name": "The weather is usually nice.",
+    "trans": ["天气通常很好。"]
+  },
+  {
+    "name": "It doesn't rain very often, Sam.",
+    "trans": ["山姆，这里不太常下雨。"]
+  },
+  {
+    "name": "Chris doesn't know many people.",
+    "trans": ["克里斯认识的人不多。"]
+  },
+  { "name": "I don't like football.", "trans": ["我不喜欢足球。"] },
+  {
+    "name": "He doesn't like football.",
+    "trans": ["他不喜欢足球。"]
+  },
+  {
+    "name": "I don't like Fred and Fred doesn't like me.",
+    "trans": ["我不喜欢弗雷德，弗雷德也不喜欢我。"]
+  },
+  {
+    "name": "My car doesn't use much petrol.",
+    "trans": ["我的车不太费油。"]
+  },
+  {
+    "name": "Sometimes he's late but it doesn't happen very often.",
+    "trans": ["他有时会迟到，但并不常发生。"]
+  },
+  {
+    "name": "I don't like washing the car.",
+    "trans": ["我不喜欢洗车。"]
+  },
+  {
+    "name": "I don't do it very often.",
+    "trans": ["我不常这么做。"]
+  },
+  {
+    "name": "Sarah speaks Spanish but she doesn't speak Italian.",
+    "trans": ["莎拉会说西班牙语，但不会说意大利语。"]
+  },
+  {
+    "name": "David doesn't do his job very well.",
+    "trans": ["大卫工作做得不太好。"]
+  },
+  {
+    "name": "Paula doesn't usually have breakfast.",
+    "trans": ["葆拉通常不吃早饭。"]
   }
 ]
