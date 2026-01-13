@@ -4155,7 +4155,19 @@ const indonesianDicts: DictionaryResource[] = [
     languageCategory: 'id',
   },
 ]
-
+const my_ja: DictionaryResource[] = [
+  {
+    id: '1',
+    name: '1',
+    description: '初级语法',
+    category: '初级语法',
+    tags: ['初级语法'],
+    url: '/dicts/ja/n5.json',
+    length: 60,
+    language: 'romaji',
+    languageCategory: 'ja',
+  },
+]
 const my_en: DictionaryResource[] = [
   {
     id: '1',
@@ -4264,6 +4276,7 @@ const my_en: DictionaryResource[] = [
  */
 export const dictionaryResources: DictionaryResource[] = [
   ...my_en,
+  ...my_ja,
   ...chinaExam,
   // ...internationalExam,
   // ...childrenEnglish,
