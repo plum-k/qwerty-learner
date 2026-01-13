@@ -44,8 +44,12 @@
     "trans": ["你正在做什么？"]
   },
   {
-    "name": "I work every day from 9 o'clock to 5:30. Tom has a shower every morning.",
-    "trans": ["我每天从9点工作到5点半。汤姆每天早上洗澡。"]
+    "name": "I work every day from 9 o'clock to 5:30.",
+    "trans": ["我每天从9点工作到5点半。"]
+  },
+  {
+    "name": "Tom has a shower every morning.",
+    "trans": ["汤姆每天早上洗澡。"]
   },
   {
     "name": "It rains a lot in winter.",
